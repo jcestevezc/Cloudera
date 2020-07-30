@@ -1,0 +1,369 @@
+IdCaso,Id,COD_DANE_MUN,DIAH,MESH,ANNOH,DEPTO_CASO,MUNINICIO_CASO,Sexo,Etnia,OcupacionVictima,CalidadVictima,TipoPoblacionVulnerable,MilitantePolitico,Grupo,DESCRIPCION_GRUPO,Estado
+195188,28328,52019,8,10,2001,Nariño,Albán,M,,Sin información,Civil,,,,,Publicado
+203236,226042,11001,4,8,2002,"Bogotá, d.c.","Bogotá, d.c.",S,,Sin información,Civil,,,,,Publicado
+202969,226043,5107,11,12,2013,Antioquia,Briceño,S,,Empleado,Civil,,,,,Publicado
+203188,226044,5854,16,10,2013,Antioquia,Valdivia,S,,Sin información,Civil,,,,,Publicado
+187133,226045,5088,21,9,1984,Antioquia,Bello,H,,Sin información,Civil,,,,,Publicado
+187133,226046,5088,21,9,1984,Antioquia,Bello,M,,Sin información,Civil,,,,,Publicado
+187597,226049,41668,9,10,1988,Huila,San agustín,M,,Sin información,Civil,,,,,Publicado
+187632,226050,8433,26,10,1988,Atlántico,Malambo,S,,Sin información,Civil,,,,,Publicado
+187786,226052,19001,18,3,1989,Cauca,Popayán,H,,Empleado,Civil,,,,,Publicado
+187879,226055,5001,4,7,1989,Antioquia,Medellín,H,,Seguridad privada,Civil,,,,,Publicado
+187951,226056,5001,27,8,1989,Antioquia,Medellín,S,,Sin información,Civil,,,,,Publicado
+187960,226057,41078,1,9,1989,Huila,Baraya,M,,Sin información,Civil,,,,,Publicado
+203425,226058,19001,20,8,1990,Cauca,Popayán,M,,Campesino,Civil,,,,,Publicado
+188335,226059,25307,10,12,1990,Cundinamarca,Girardot,H,,Economía informal,Civil,,,,,Publicado
+188656,226060,20013,18,2,1991,Cesar,Agustín codazzi,H,,Empleado,Civil,,,,,Publicado
+188657,226061,20013,18,2,1991,Cesar,Agustín codazzi,H,,Empleado,Civil,,,,,Publicado
+188735,226062,73124,3,3,1991,Tolima,Cajamarca,H,,Sin información,Civil,,,,,Publicado
+188735,226063,73124,3,3,1991,Tolima,Cajamarca,M,,Sin información,Civil,,,,,Publicado
+204808,226064,76233,25,3,1991,Valle del cauca,Dagua,H,,Sin información,Civil,,,,,Publicado
+188827,226065,5585,2,4,1991,Antioquia,Puerto nare,S,,Sin información,Civil,,,,,Publicado
+189159,226068,52001,12,12,1991,Nariño,Pasto,H,,Seguridad privada,Civil,,,,,Publicado
+189159,226069,52001,12,12,1991,Nariño,Pasto,H,,Seguridad privada,Civil,,,,,Publicado
+189159,226070,52001,12,12,1991,Nariño,Pasto,H,,Seguridad privada,Civil,,,,,Publicado
+189284,226071,11001,27,3,1992,"Bogotá, d.c.","Bogotá, d.c.",H,,Fuerza pública,Combatiente,,,Agente del estado,Ejército nacional,Publicado
+189456,226074,5001,25,6,1992,Antioquia,Medellín,H,,Sin información,Civil,,,,,Publicado
+189545,226075,5736,4,9,1992,Antioquia,Segovia,H,,No aplica,Civil,,,,,Publicado
+189545,226076,5736,4,9,1992,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+189545,226077,5736,4,9,1992,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+189562,226078,68689,22,9,1992,Santander,San vicente de chucurí,H,,Conductor/motorista,Civil,,,,,Publicado
+189656,226080,5376,6,11,1992,Antioquia,La ceja,H,,Sin información,Civil,,,,,Publicado
+189657,226081,5001,6,11,1992,Antioquia,Medellín,H,,Sin información,Civil,,,,,Publicado
+189657,226082,5001,6,11,1992,Antioquia,Medellín,H,,Seguridad privada,Civil,,,,,Publicado
+189750,226083,5604,19,11,1992,Antioquia,Remedios,H,,Campesino,Civil,,,,,Publicado
+189750,226084,5604,19,11,1992,Antioquia,Remedios,M,,Campesino,Civil,,,,,Publicado
+189750,226085,5604,19,11,1992,Antioquia,Remedios,M,,Sin información,Civil,,,,,Publicado
+189750,226086,5604,19,11,1992,Antioquia,Remedios,M,,Sin información,Civil,,,,,Publicado
+189750,226087,5604,19,11,1992,Antioquia,Remedios,M,,Campesino,Civil,,,,,Publicado
+189750,226088,5604,19,11,1992,Antioquia,Remedios,M,,Campesino,Civil,,,,,Publicado
+189750,226089,5604,19,11,1992,Antioquia,Remedios,H,,Campesino,Civil,,,,,Publicado
+189750,226090,5604,19,11,1992,Antioquia,Remedios,H,,Campesino,Civil,,,,,Publicado
+189750,226091,5604,19,11,1992,Antioquia,Remedios,H,,Campesino,Civil,,,,,Publicado
+189750,226092,5604,19,11,1992,Antioquia,Remedios,H,,Campesino,Civil,,,,,Publicado
+189861,226093,76001,17,12,1992,Valle del cauca,Cali,S,,Sin información,Civil,,,,,Publicado
+189979,226094,20060,16,4,1993,Cesar,Bosconia,H,,Sin información,Civil,,,,,Publicado
+190115,226095,11001,23,10,1993,"Bogotá, d.c.","Bogotá, d.c.",S,,Otro,Civil,Otro,,,,Publicado
+190245,226096,68081,13,3,1994,Santander,Barrancabermeja,H,,Conductor/motorista,Civil,,,,,Publicado
+190751,226097,54001,8,4,1995,Norte de santander,Cúcuta,S,,Sin información,Civil,,,,,Publicado
+190751,226098,54001,8,4,1995,Norte de santander,Cúcuta,S,,Sin información,Civil,,,,,Publicado
+190751,226099,54001,8,4,1995,Norte de santander,Cúcuta,S,,Sin información,Civil,,,,,Publicado
+190820,226100,54001,13,6,1995,Norte de santander,Cúcuta,H,,Comerciante,Civil,,,,,Publicado
+191189,226101,5172,18,5,1996,Antioquia,Chigorodó,M,,Sin información,Civil,,,,,Publicado
+203705,226106,20400,31,7,1996,Cesar,La jagua de ibirico,H,,Campesino,Civil,,,,,Publicado
+203705,226107,20400,31,7,1996,Cesar,La jagua de ibirico,H,,Campesino,Civil,,,,,Publicado
+191325,226108,5040,14,9,1996,Antioquia,Anorí,H,,Sin información,Civil,,,,,Publicado
+191658,226109,95001,14,4,1997,Guaviare,San josé del guaviare,H,,Sin información,Civil,,,,,Publicado
+191942,226112,25019,16,9,1997,Cundinamarca,Albán,H,,Fuerza pública,Combatiente,,,Agente del estado,No identificado,Publicado
+192011,226113,13001,11,10,1997,Bolívar,Cartagena de indias,H,,Funcionario público,Civil,Funcionario judicial,,,,Publicado
+192021,226114,54001,17,10,1997,Norte de santander,Cúcuta,H,,Seguridad privada,Civil,,,,,Publicado
+192051,226115,5129,24,10,1997,Antioquia,Caldas,H,,Sin información,Civil,,,,,Publicado
+192116,226116,13683,8,11,1997,Bolívar,Santa rosa,M,,Campesino,Civil,,,,,Publicado
+192371,226117,18592,29,3,1998,Caquetá,Puerto rico,H,,Sin información,Civil,,,,,Publicado
+203134,226118,5736,18,10,1998,Antioquia,Segovia,M,,No aplica,Civil,,,,,Publicado
+203134,226119,5736,18,10,1998,Antioquia,Segovia,H,,No aplica,Civil,,,,,Publicado
+203134,226120,5736,18,10,1998,Antioquia,Segovia,H,,No aplica,Civil,,,,,Publicado
+203134,226121,5736,18,10,1998,Antioquia,Segovia,M,,No aplica,Civil,,,,,Publicado
+203134,226122,5736,18,10,1998,Antioquia,Segovia,M,,No aplica,Civil,,,,,Publicado
+203134,226123,5736,18,10,1998,Antioquia,Segovia,H,,No aplica,Civil,,,,,Publicado
+203134,226124,5736,18,10,1998,Antioquia,Segovia,M,,No aplica,Civil,,,,,Publicado
+203134,226125,5736,18,10,1998,Antioquia,Segovia,H,,No aplica,Civil,,,,,Publicado
+203134,226126,5736,18,10,1998,Antioquia,Segovia,H,,No aplica,Civil,,,,,Publicado
+203134,226127,5736,18,10,1998,Antioquia,Segovia,M,,No aplica,Civil,,,,,Publicado
+203134,226128,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226129,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226130,5736,18,10,1998,Antioquia,Segovia,H,,No aplica,Civil,,,,,Publicado
+203134,226131,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226132,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226133,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226134,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226135,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226136,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226137,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226138,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226139,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226140,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226141,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226142,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226143,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226144,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226145,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226146,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226147,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226148,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226149,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226150,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226151,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226152,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226153,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226154,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226155,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226156,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226157,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226158,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226159,5736,18,10,1998,Antioquia,Segovia,H,,No aplica,Civil,,,,,Publicado
+203134,226160,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226161,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226162,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226163,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226164,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226165,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226166,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226167,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226168,5736,18,10,1998,Antioquia,Segovia,H,,No aplica,Civil,,,,,Publicado
+203134,226169,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226170,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226171,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226172,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226173,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226174,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226175,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226176,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226177,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226178,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226179,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226180,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226181,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226182,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226183,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226184,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+203134,226185,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226186,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226187,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226188,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226189,5736,18,10,1998,Antioquia,Segovia,H,,Sin información,Civil,,,,,Publicado
+203134,226190,5736,18,10,1998,Antioquia,Segovia,M,,Sin información,Civil,,,,,Publicado
+192799,226191,5652,29,11,1998,Antioquia,San francisco,H,,Sin información,Civil,,,,,Publicado
+192823,226192,70713,13,12,1998,Sucre,San onofre,H,,Obrero,Civil,,,,,Publicado
+193344,226195,5038,15,11,1999,Antioquia,Angostura,H,,Sin información,Civil,,,,,Publicado
+193360,226196,18001,26,11,1999,Caquetá,Florencia,S,,Sin información,Civil,,,,,Publicado
+193360,226197,18001,26,11,1999,Caquetá,Florencia,S,,Sin información,Civil,,,,,Publicado
+193360,226198,18001,26,11,1999,Caquetá,Florencia,S,,Sin información,Civil,,,,,Publicado
+193465,226199,18094,4,1,2000,Caquetá,Belén de los andaquíes,M,,Sin información,Civil,,,,,Publicado
+193848,226200,13244,10,4,2000,Bolívar,El carmen de bolívar,M,,Estudiante,Civil,,,,,Publicado
+193848,226201,13244,10,4,2000,Bolívar,El carmen de bolívar,M,,Estudiante,Civil,,,,,Publicado
+193848,226202,13244,10,4,2000,Bolívar,El carmen de bolívar,M,,Estudiante,Civil,,,,,Publicado
+194221,226205,81001,3,9,2000,Arauca,Arauca,H,,Conductor/motorista,Civil,,,,,Publicado
+194501,226206,5000,0,0,2001,Antioquia,Sin informacion,M,,Personal de salud,Civil,,,,,Publicado
+194501,226207,5000,0,0,2001,Antioquia,Sin informacion,M,,Sin información,Civil,,,,,Publicado
+194640,226208,5045,20,2,2001,Antioquia,Apartadó,S,,Sin información,Civil,,,,,Publicado
+194854,226209,19001,17,5,2001,Cauca,Popayán,H,,Funcionario público,Civil,,,,,Publicado
+195222,226219,44001,21,10,2001,La guajira,Riohacha,M,,Sin información,Civil,,,,,Publicado
+195222,226220,44001,21,10,2001,La guajira,Riohacha,H,,Sin información,Civil,,,,,Publicado
+195222,226221,44001,21,10,2001,La guajira,Riohacha,M,,Sin información,Civil,,,,,Publicado
+195222,226222,44001,21,10,2001,La guajira,Riohacha,H,,Sin información,Civil,,,,,Publicado
+195608,226224,5667,20,2,2002,Antioquia,San rafael,M,,Sin información,Civil,,,,,Publicado
+195608,226225,5667,20,2,2002,Antioquia,San rafael,M,,Sin información,Civil,,,,,Publicado
+195608,226226,5667,20,2,2002,Antioquia,San rafael,M,,Personal de salud,Civil,,,,,Publicado
+195942,226227,11001,17,4,2002,"Bogotá, d.c.","Bogotá, d.c.",H,,Seguridad privada,Civil,,,,,Publicado
+195947,226228,13001,18,4,2002,Bolívar,Cartagena de indias,H,,Empleado,Civil,,,,,Publicado
+195984,226229,50001,1,5,2002,Meta,Villavicencio,H,,Guerrillero,Combatiente,,,Guerrilla,Farc,Publicado
+196079,226231,5660,25,5,2002,Antioquia,San luis,S,,Sin información,Civil,,,,,Publicado
+196154,226233,54001,29,6,2002,Norte de santander,Cúcuta,M,,Sin información,Civil,,,,,Publicado
+196228,226234,81794,4,8,2002,Arauca,Tame,H,,Seguridad privada,Civil,,,,,Publicado
+205018,226236,81794,23,10,2002,Arauca,Tame,H,,Conductor/motorista,Civil,,,,,Publicado
+196423,226237,5001,31,10,2002,Antioquia,Medellín,H,,Conductor/motorista,Civil,,,,,Publicado
+196439,226238,18753,7,11,2002,Caquetá,San vicente del caguán,H,,Estudiante,Civil,,,,,Publicado
+196501,226239,66001,5,12,2002,Risaralda,Pereira,M,,Sin información,Civil,,,,,Publicado
+196527,226240,81065,22,12,2002,Arauca,Arauquita,H,,Empleado,Civil,,,,,Publicado
+196527,226241,81065,22,12,2002,Arauca,Arauquita,H,,Empleado,Civil,,,,,Publicado
+196734,226243,18592,24,3,2003,Caquetá,Puerto rico,S,,Sin información,Civil,,,,,Publicado
+196734,226244,18592,24,3,2003,Caquetá,Puerto rico,S,,Sin información,Civil,,,,,Publicado
+196795,226245,86320,22,4,2003,Putumayo,Orito,S,,Sin información,Civil,,,,,Publicado
+196896,226250,50251,31,5,2003,Meta,El castillo,H,,Conductor/motorista,Civil,,,,,Publicado
+197056,226251,25845,9,8,2003,Cundinamarca,Une,S,,Sin información,Civil,,,,,Publicado
+197277,226253,5313,24,11,2003,Antioquia,Granada,H,,Sin información,Civil,,,,,Publicado
+197277,226254,5313,24,11,2003,Antioquia,Granada,M,,Sin información,Civil,,,,,Publicado
+197363,226259,54810,15,2,2004,Norte de santander,Tibú,H,,Sin información,Civil,,,,,Publicado
+197513,226260,5045,22,5,2004,Antioquia,Apartadó,S,,Sin información,Civil,,,,,Publicado
+204624,226261,70508,24,5,2004,Sucre,Ovejas,H,,Sin información,Civil,,,,,Publicado
+197602,226262,5652,29,6,2004,Antioquia,San francisco,H,,Obrero,Civil,,,,,Publicado
+197602,226263,5652,29,6,2004,Antioquia,San francisco,H,,Sin información,Civil,,,,,Publicado
+197733,226265,27001,28,11,2004,Chocó,Quibdó,M,,Sin información,Civil,,,,,Publicado
+197733,226266,27001,28,11,2004,Chocó,Quibdó,M,,Sin información,Civil,,,,,Publicado
+197733,226267,27001,28,11,2004,Chocó,Quibdó,H,,Sin información,Civil,,,,,Publicado
+197734,226268,11001,28,11,2004,"Bogotá, d.c.","Bogotá, d.c.",S,,Sin información,Civil,,,,,Publicado
+198228,226271,52001,5,9,2005,Nariño,Pasto,S,,Sin información,Civil,,,,,Publicado
+198228,226272,52001,5,9,2005,Nariño,Pasto,H,,Conductor/motorista,Civil,,,,,Publicado
+198291,226275,41020,7,10,2005,Huila,Algeciras,M,,Sin información,Civil,,,,,Publicado
+198406,226276,18001,3,12,2005,Caquetá,Florencia,M,,Empleado,Civil,Líder comunitario,,,,Publicado
+198784,226278,54001,27,4,2006,Norte de santander,Cúcuta,H,,Seguridad privada,Civil,,,,,Publicado
+198785,226279,54518,27,4,2006,Norte de santander,Pamplona,H,,Seguridad privada,Civil,,,,,Publicado
+198806,226280,86001,14,5,2006,Putumayo,Mocoa,S,,Sin información,Civil,,,,,Publicado
+204079,226281,52001,20,7,2006,Nariño,Pasto,H,,Sin información,Civil,,,,,Publicado
+204153,226282,52573,21,7,2006,Nariño,Puerres,H,,Profesional,Civil,,,,,Publicado
+204153,226283,52573,21,7,2006,Nariño,Puerres,S,,Profesional,Civil,,,,,Publicado
+204153,226284,52573,21,7,2006,Nariño,Puerres,S,,Profesional,Civil,,,,,Publicado
+204153,226285,52573,21,7,2006,Nariño,Puerres,S,,Sin información,Civil,,,,,Publicado
+204153,226286,52573,21,7,2006,Nariño,Puerres,S,,Empleado,Civil,,,,,Publicado
+199115,226288,50006,31,10,2006,Meta,Acacías,M,,Sin información,Civil,,,,,Publicado
+199170,226289,19001,7,12,2006,Cauca,Popayán,M,,Sin información,Civil,,,,,Publicado
+199387,226290,41001,27,6,2007,Huila,Neiva,H,,Comerciante,Civil,,,,,Publicado
+204082,226291,52001,18,7,2007,Nariño,Pasto,H,,Sin información,Civil,,,,,Publicado
+204082,226292,52001,18,7,2007,Nariño,Pasto,H,,Sin información,Civil,,,,,Publicado
+199643,226293,41001,13,3,2008,Huila,Neiva,M,,Sin información,Civil,,,,,Publicado
+199653,226295,50001,26,3,2008,Meta,Villavicencio,H,,Sin información,Civil,,,,,Publicado
+199653,226296,50001,26,3,2008,Meta,Villavicencio,H,,Sin información,Civil,,,,,Publicado
+199791,226297,50001,11,8,2008,Meta,Villavicencio,M,,Sin información,Civil,,,,,Publicado
+199838,226298,11001,3,10,2008,"Bogotá, d.c.","Bogotá, d.c.",S,,Sin información,Civil,,,,,Publicado
+199843,226299,41001,12,10,2008,Huila,Neiva,H,,Sin información,Civil,,,,,Publicado
+199907,226300,47288,23,1,2009,Magdalena,Fundación,H,,Sin información,Civil,,,,,Publicado
+199942,226301,18410,7,3,2009,Caquetá,La montañita,H,,Sin información,Civil,,,,,Publicado
+199992,226302,41020,28,3,2009,Huila,Algeciras,H,,Sin información,Civil,,,,,Publicado
+200077,226303,81794,20,7,2009,Arauca,Tame,H,,Sin información,Civil,,,,,Publicado
+200084,226304,5480,30,7,2009,Antioquia,Mutatá,S,,Sin información,Civil,,,,,Publicado
+200156,226305,73504,22,12,2009,Tolima,Ortega,S,,Sin información,Civil,,,,,Publicado
+200241,226306,19137,11,5,2010,Cauca,Caldono,H,,Sin información,Civil,,,,,Publicado
+200261,226307,19050,28,5,2010,Cauca,Argelia,H,,Sin información,Civil,,,,,Publicado
+200261,226308,19050,28,5,2010,Cauca,Argelia,M,,Sin información,Civil,,,,,Publicado
+200266,226309,23555,2,6,2010,Córdoba,Planeta rica,H,,Sin información,Civil,,,,,Publicado
+200266,226310,23555,2,6,2010,Córdoba,Planeta rica,M,,Sin información,Civil,,,,,Publicado
+200393,226311,73001,9,1,2011,Tolima,Ibagué,S,,Sin información,Civil,,,,,Publicado
+200638,226313,18592,17,9,2011,Caquetá,Puerto rico,H,,Sin información,Civil,,,,,Publicado
+200685,226314,52838,23,10,2011,Nariño,Túquerres,S,,Sin información,Civil,,,,,Publicado
+200833,226315,27787,20,2,2012,Chocó,Tadó,H,,Conductor/motorista,Civil,,,,,Publicado
+200916,226316,18592,27,4,2012,Caquetá,Puerto rico,M,,Sin información,Civil,,,,,Publicado
+200916,226317,18592,27,4,2012,Caquetá,Puerto rico,H,,Sin información,Civil,,,,,Publicado
+200916,226318,18592,27,4,2012,Caquetá,Puerto rico,H,,Sin información,Civil,,,,,Publicado
+201001,226319,52079,20,6,2012,Nariño,Barbacoas,S,,Sin información,Civil,,,,,Publicado
+201001,226320,52079,20,6,2012,Nariño,Barbacoas,S,,Sin información,Civil,,,,,Publicado
+201001,226321,52079,20,6,2012,Nariño,Barbacoas,S,,Sin información,Civil,,,,,Publicado
+203444,226322,19050,10,7,2012,Cauca,Argelia,H,,Sin información,Civil,,,,,Publicado
+203609,226323,19824,29,5,2013,Cauca,Totoró,H,,Trabajador de finca,Civil,,,,,Publicado
+203609,226324,19824,29,5,2013,Cauca,Totoró,H,,Trabajador de finca,Civil,,,,,Publicado
+202030,226325,44378,3,7,2014,La guajira,Hatonuevo,S,,Sin información,Civil,,,,,Publicado
+202088,226326,19455,30,7,2014,Cauca,Miranda,S,,No aplica,Civil,,,,,Publicado
+196424,226328,5001,31,10,2002,Antioquia,Medellín,H,,Empleado,Civil,,,,,Publicado
+196424,226329,5001,31,10,2002,Antioquia,Medellín,H,,Empleado,Civil,,,,,Publicado
+196424,226330,5001,31,10,2002,Antioquia,Medellín,H,,Empleado,Civil,,,,,Publicado
+202084,226331,47798,29,7,2014,Magdalena,Tenerife,S,,Guerrillero,Combatiente,,,Guerrilla,No identificada,Publicado
+187055,226333,18860,0,1,1979,Caquetá,Valparaíso,M,,Sin información,Civil,,,,,Publicado
+187155,226336,76001,23,5,1985,Valle del cauca,Cali,H,,Estudiante,Civil,,,,,Publicado
+192168,226337,25148,23,12,1997,Cundinamarca,Caparrapí,H,,Sin información,Civil,,,,,Publicado
+204805,226338,76130,23,9,1997,Valle del cauca,Candelaria,H,,Empleado,Civil,,,,,Publicado
+204805,226339,76130,23,9,1997,Valle del cauca,Candelaria,H,,Seguridad privada,Civil,,,,,Publicado
+187416,226340,47170,28,3,1988,Magdalena,Chivolo,H,,Sin información,Civil,,,,,Publicado
+203946,226341,47189,3,5,2000,Magdalena,Ciénaga,H,,Sin información,Civil,,,,,Publicado
+203946,226342,47189,3,5,2000,Magdalena,Ciénaga,M,,No aplica,Civil,,,,,Publicado
+199716,226343,27205,3,6,2008,Chocó,Condoto,H,,Sin información,Civil,,,,,Publicado
+199208,226344,54001,11,1,2007,Norte de santander,Cúcuta,H,,Sin información,Civil,,,,,Publicado
+194140,226345,13244,17,8,2000,Bolívar,El carmen de bolívar,M,,Sin información,Civil,,,,,Publicado
+191489,226346,18205,29,11,1996,Caquetá,Curillo,M,,No aplica,Civil,,,,,Publicado
+191489,226347,18205,29,11,1996,Caquetá,Curillo,M,,Sin información,Civil,,,,,Publicado
+191489,226348,18205,29,11,1996,Caquetá,Curillo,H,,Sin información,Civil,,,,,Publicado
+193301,226349,18001,17,10,1999,Caquetá,Florencia,H,,Sin información,Civil,,,,,Publicado
+193301,226350,18001,17,10,1999,Caquetá,Florencia,H,,Sin información,Civil,,,,,Publicado
+193301,226351,18001,17,10,1999,Caquetá,Florencia,H,,Sin información,Civil,,,,,Publicado
+195308,226353,18001,10,11,2001,Caquetá,Florencia,H,,Estudiante,Civil,,,,,Publicado
+195308,226354,18001,10,11,2001,Caquetá,Florencia,M,,Sin información,Civil,,,,,Publicado
+193818,226355,76109,6,4,2000,Valle del cauca,Buenaventura,H,,Sin información,Civil,,,,,Publicado
+193818,226356,76109,6,4,2000,Valle del cauca,Buenaventura,H,,Sin información,Civil,,,,,Publicado
+193818,226357,76109,6,4,2000,Valle del cauca,Buenaventura,H,,Sin información,Civil,,,,,Publicado
+186386,226359,11001,13,9,2011,"Bogotá, d.c.","Bogotá, d.c.",H,,Sin información,Civil,,,,,Publicado
+186386,226360,11001,13,9,2011,"Bogotá, d.c.","Bogotá, d.c.",H,,Sin información,Civil,,,,,Publicado
+186355,226362,54800,28,6,2007,Norte de santander,Teorama,H,,Conductor/motorista,Civil,,,,,Publicado
+185739,226363,47798,5,6,1992,Magdalena,Tenerife,H,,Trabajador de finca,Civil,,,,,Publicado
+185739,226364,47798,5,6,1992,Magdalena,Tenerife,S,,Sin información,Civil,,,,,Publicado
+204172,226365,52696,1,1,2004,Nariño,Santa bárbara,M,,Sin información,Civil,,,,,Publicado
+204172,226366,52696,1,1,2004,Nariño,Santa bárbara,H,,Sin información,Civil,,,,,Publicado
+186356,226373,54800,28,6,2007,Norte de santander,Teorama,H,,Conductor/motorista,Civil,,,,,Publicado
+203308,226374,13655,11,10,2003,Bolívar,San jacinto del cauca,H,,Raspachín,Civil,,,,,Publicado
+203308,226375,13655,11,10,2003,Bolívar,San jacinto del cauca,S,,Raspachín,Civil,,,,,Publicado
+186245,226377,86757,28,4,2003,Putumayo,San miguel,M,,Sin información,Civil,,,,,Publicado
+186245,226378,86757,28,4,2003,Putumayo,San miguel,M,,Sin información,Civil,,,,,Publicado
+204680,226379,70823,26,3,2004,Sucre,Tolú viejo,M,,Sin información,Civil,,,,,Publicado
+204680,226380,70823,26,3,2004,Sucre,Tolú viejo,H,,Sin información,Civil,,,,,Publicado
+186305,226381,25307,31,12,2004,Cundinamarca,Girardot,H,,Sin información,Civil,,,,,Publicado
+186307,226382,23570,4,1,2005,Córdoba,Pueblo nuevo,H,,Sin información,Civil,,,,,Publicado
+186330,226383,20750,6,3,2006,Cesar,San diego,H,,Trabajador de finca,Civil,,,,,Publicado
+186175,226384,5667,20,2,2002,Antioquia,San rafael,M,,Sin información,Civil,,,,,Publicado
+186175,226385,5667,20,2,2002,Antioquia,San rafael,M,,Personal de salud,Civil,,,,,Publicado
+186175,226386,5667,20,2,2002,Antioquia,San rafael,M,,Sin información,Civil,,,,,Publicado
+187570,226392,41668,22,9,1988,Huila,San agustín,H,,Sin información,Civil,,,,,Publicado
+186026,226394,5120,31,10,1999,Antioquia,Cáceres,H,,Comerciante,Civil,,,,,Publicado
+186063,226395,5670,1,5,2000,Antioquia,San roque,H,,Campesino,Civil,,,,,Publicado
+186247,226400,54670,3,5,2003,Norte de santander,San calixto,H,,Sin información,Civil,,,,,Publicado
+186294,226403,44430,14,7,2004,La guajira,Maicao,H,,Conductor/motorista,Civil,,,,,Publicado
+204357,226404,54810,12,8,2006,Norte de santander,Tibú,H,,Comerciante,Civil,,,,,Publicado
+186345,226405,19364,16,9,2006,Cauca,Jambaló,H,Indígena,Sin información,Civil,,,,,Publicado
+203054,226407,5361,0,0,0,Antioquia,Ituango,S,,Sin información,Civil,,,,,Publicado
+186414,226408,5837,0,0,0,Antioquia,Turbo,H,,Sin información,Civil,,,,,Publicado
+186464,226413,5483,31,12,1995,Antioquia,Nariño,H,,Sin información,Civil,,,,,Publicado
+186464,226414,5483,31,12,1995,Antioquia,Nariño,M,,Sin información,Civil,Maestro o educador,,,,Publicado
+186563,226415,5649,20,2,2002,Antioquia,San carlos,M,,Sin información,Civil,,,,,Publicado
+186833,226423,13244,17,8,2000,Bolívar,El carmen de bolívar,S,,Sin información,Civil,,,,,Publicado
+186833,226424,13244,17,8,2000,Bolívar,El carmen de bolívar,S,,Sin información,Civil,,,,,Publicado
+186833,226425,13244,17,8,2000,Bolívar,El carmen de bolívar,S,,Sin información,Civil,,,,,Publicado
+186609,226426,5001,12,3,1960,Antioquia,Medellín,M,,Sin información,Civil,Familiar de combatiente,,,,Publicado
+186838,226427,27150,30,1,2010,Chocó,Carmen del darién,S,,Sin información,Civil,,,,,Publicado
+204870,226428,81065,2,6,2002,Arauca,Arauquita,H,,Economía informal,Civil,,,,,Publicado
+204870,226429,81065,2,6,2002,Arauca,Arauquita,H,,Sin información,Civil,,,,,Publicado
+204870,226430,81065,2,6,2002,Arauca,Arauquita,H,,Sin información,Civil,,,,,Publicado
+204870,226431,81065,2,6,2002,Arauca,Arauquita,H,,Sin información,Civil,,,,,Publicado
+186733,226432,23068,11,3,1997,Córdoba,Ayapel,H,,No aplica,Civil,,,,,Publicado
+186733,226433,23068,11,3,1997,Córdoba,Ayapel,H,,Sin información,Civil,,,,,Publicado
+203253,226434,11001,7,8,2002,"Bogotá, d.c.","Bogotá, d.c.",M,,Sin información,Civil,,,,,Publicado
+203253,226435,11001,7,8,2002,"Bogotá, d.c.","Bogotá, d.c.",M,,Sin información,Civil,,,,,Publicado
+203253,226436,11001,7,8,2002,"Bogotá, d.c.","Bogotá, d.c.",M,,Sin información,Civil,,,,,Publicado
+203253,226437,11001,7,8,2002,"Bogotá, d.c.","Bogotá, d.c.",M,,Sin información,Civil,,,,,Publicado
+186663,226438,13655,10,10,2003,Bolívar,San jacinto del cauca,H,,Empleado,Civil,,,,,Publicado
+186723,226439,5361,30,10,2000,Antioquia,Ituango,M,,Sin información,Civil,,,,,Publicado
+292267,330879,5034,23,1,2006,Antioquia,Andes,H,,Sin información,Civil,,,,,Publicado
+292267,330880,5034,23,1,2006,Antioquia,Andes,H,,Sin información,Civil,,,,,Publicado
+292267,330881,5034,23,1,2006,Antioquia,Andes,S,,Sin información,Civil,,,,,Publicado
+292267,330882,5034,23,1,2006,Antioquia,Andes,S,,Sin información,Civil,,,,,Publicado
+292267,330883,5034,23,1,2006,Antioquia,Andes,S,,Sin información,Civil,,,,,Publicado
+200745,426737,76563,1,1,2012,Valle del cauca,Pradera,M,,Sin información,Civil,,,,,Publicado
+201035,426889,86569,4,7,2012,Putumayo,Puerto caicedo,S,,Empleado,Civil,,,,,Publicado
+201035,426890,86569,4,7,2012,Putumayo,Puerto caicedo,S,,Empleado,Civil,,,,,Publicado
+201035,426893,86569,4,7,2012,Putumayo,Puerto caicedo,S,,Empleado,Civil,,,,,Publicado
+201035,426895,86569,4,7,2012,Putumayo,Puerto caicedo,S,,Empleado,Civil,,,,,Publicado
+201035,426896,86569,4,7,2012,Putumayo,Puerto caicedo,S,,Empleado,Civil,,,,,Publicado
+397044,429543,41872,10,12,2000,Huila,Villavieja,M,,Sin información,Civil,,,,,Publicado
+419344,456814,11001,7,12,1985,"Bogotá, d.c.","Bogotá, d.c.",H,,Sin información,Civil,Militante político,Partido comunista,,,Publicado
+419474,456815,66318,27,5,1988,Risaralda,Guática,S,,Sin información,Civil,,,,,Publicado
+419560,456816,5045,27,10,1988,Antioquia,Apartadó,S,,Sin información,Civil,,,,,Publicado
+419626,456817,76001,25,5,1989,Valle del cauca,Cali,S,,Sin información,Civil,,,,,Publicado
+419626,456818,76001,25,5,1989,Valle del cauca,Cali,S,,Sin información,Civil,,,,,Publicado
+420013,456819,13001,1,4,1993,Bolívar,Cartagena de indias,H,,Seguridad privada,Civil,,,,,Publicado
+420145,456820,41660,8,8,1994,Huila,Saladoblanco,H,,Fuerza pública,Combatiente,,,Agente del estado,Policía nacional,Publicado
+420297,456821,23807,21,5,1996,Córdoba,Tierralta,S,,Sin información,Civil,,,,,Publicado
+420297,456822,23807,21,5,1996,Córdoba,Tierralta,S,,Sin información,Civil,,,,,Publicado
+420360,456823,5042,18,10,1996,Antioquia,Santa fé de antioquia,H,,Sin información,Civil,,,,,Publicado
+420433,456824,5400,1,7,1997,Antioquia,La unión,S,,Sin información,Civil,,,,,Publicado
+420433,456825,5400,1,7,1997,Antioquia,La unión,S,,Sin información,Civil,,,,,Publicado
+420589,456827,5628,26,4,1998,Antioquia,Sabanalarga,M,,Sin información,Civil,,,,,Publicado
+420589,456828,5628,26,4,1998,Antioquia,Sabanalarga,H,,Sin información,Civil,,,,,Publicado
+420922,456832,13244,10,4,2000,Bolívar,El carmen de bolívar,H,,Seguridad privada,Civil,,,,,Publicado
+421138,456834,41872,10,12,2000,Huila,Villavieja,M,,Sin información,Civil,,,,,Publicado
+421306,456835,54820,8,7,2001,Norte de santander,Toledo,M,,No aplica,Civil,,,,,Publicado
+421394,456836,44001,20,10,2001,La guajira,Riohacha,M,Indígena,Sin información,Civil,,,,,Publicado
+421394,456837,44001,20,10,2001,La guajira,Riohacha,M,Indígena,Sin información,Civil,,,,,Publicado
+421394,456838,44001,20,10,2001,La guajira,Riohacha,M,Indígena,Sin información,Civil,,,,,Publicado
+421394,456839,44001,20,10,2001,La guajira,Riohacha,H,Indígena,Sin información,Civil,,,,,Publicado
+421394,456840,44001,20,10,2001,La guajira,Riohacha,H,Indígena,Sin información,Civil,,,,,Publicado
+421394,456841,44001,20,10,2001,La guajira,Riohacha,M,Indígena,Sin información,Civil,,,,,Publicado
+421559,456842,5660,26,5,2002,Antioquia,San luis,M,,Sin información,Civil,,,,,Publicado
+421619,456843,27205,21,10,2002,Chocó,Condoto,H,,Sin información,Civil,,,,,Publicado
+421667,456845,5649,15,1,2003,Antioquia,San carlos,S,,Sin información,Civil,,,,,Publicado
+421667,456846,5649,15,1,2003,Antioquia,San carlos,S,,Sin información,Civil,,,,,Publicado
+421667,456847,5649,15,1,2003,Antioquia,San carlos,S,,Sin información,Civil,,,,,Publicado
+421667,456848,5649,15,1,2003,Antioquia,San carlos,S,,Sin información,Civil,,,,,Publicado
+421805,456853,41026,6,11,2003,Huila,Altamira,H,,Seguridad privada,Civil,,,,,Publicado
+422166,456854,5658,21,11,2006,Antioquia,San josé de la montaña,H,,Sin información,Civil,,,,,Publicado
+422476,456856,18247,12,3,2012,Caquetá,El doncello,H,,Conductor/motorista,Civil,,,,,Publicado
+422476,456857,18247,12,3,2012,Caquetá,El doncello,H,,Conductor/motorista,Civil,,,,,Publicado
+193042,505009,17662,18,5,1999,Caldas,Samaná,M,,Sin información,Civil,,,,,Publicado
+191365,505020,54001,20,9,1996,Norte de santander,Cúcuta,H,,Economía informal,Civil,,,,,Publicado
+195947,536017,13001,18,4,2002,Bolívar,Cartagena de indias,S,,Sin información,Civil,,,,,Publicado
+195947,536018,13001,18,4,2002,Bolívar,Cartagena de indias,S,,Sin información,Civil,,,,,Publicado
+192800,536099,5197,30,11,1998,Antioquia,Cocorná,S,,Sin información,Civil,,,,,Publicado
+192800,536100,5197,30,11,1998,Antioquia,Cocorná,S,,Sin información,Civil,,,,,Publicado
+192800,536101,5197,30,11,1998,Antioquia,Cocorná,S,,Sin información,Civil,,,,,Publicado
+192800,536102,5197,30,11,1998,Antioquia,Cocorná,S,,Sin información,Civil,,,,,Publicado
+192800,536103,5197,30,11,1998,Antioquia,Cocorná,S,,Sin información,Civil,,,,,Publicado
+194254,536128,13244,22,8,2000,Bolívar,El carmen de bolívar,M,,Sin información,Civil,,,,,Publicado
+193987,567516,70204,25,6,2000,Sucre,Coloso,M,,Sin información,Civil,,,,,Publicado
+521528,568528,54810,1,12,1992,Norte de santander,Tibú,M,,Sin información,Civil,,,,,Publicado
+521622,568678,5031,8,8,1991,Antioquia,Amalfi,H,,Sin información,Civil,,,,,Publicado
+521622,568679,5031,8,8,1991,Antioquia,Amalfi,M,,Sin información,Civil,,,,,Publicado
