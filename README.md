@@ -25,3 +25,9 @@ cd Downloads
 ```
 ./setup-mongo.sh
 ```
+4. Finally:
+```
+source $HOME/.bashrc:
+```
+
+To start Jupyter, open a new terminal window and run the command "pyspark".
