@@ -10,3 +10,13 @@ In the VM Config folder you can find two shell scripts:
 
 1. With setup-posgresql-anaconda.sh you install and configure posgresql and anaconda.
 2. With setup-mongo.sh and dump.tar.gz you install mongodb and load an example dataset.
+
+For execute the setup follow the next steps:
+
+1. Go to the downloads folder:
+cd Downloads
+
+2. Execute the setup-posgresql-anaconda.sh file:
+./setup-posgresql-anaconda.sh
+
+3. Execute the setup-mongo.sh file:
