@@ -14,12 +14,14 @@ In the VM Config folder you can find two shell scripts:
 For execute the setup follow the next steps:
 
 1. Go to the downloads folder:
-
+```
 cd Downloads
-
+```
 2. Execute the setup-posgresql-anaconda.sh file:
-
+```
 ./setup-posgresql-anaconda.sh
-
+```
 3. Next, execute the setup-mongo.sh file:
+```
 ./setup-mongo.sh
+```
