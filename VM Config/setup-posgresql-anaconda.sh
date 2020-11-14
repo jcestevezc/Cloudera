@@ -50,7 +50,7 @@ psql -f setup/init-postgres.sql
 
 # download and install anaconda for pandas, jupyter
 wget http://repo.continuum.io/archive/Anaconda3-4.0.0-Linux-x86_64.sh
-bash Anaconda3-4.0.0-Linux-x86_64.sh
+bash Anaconda3-4.0.0-Linux-x86_64.sh --no-check-certificate
 
 # For the last version of Anaconda uncomment the next to lines and delete the last two
 #wget http://repo.continuum.io/archive/Anaconda3-2020.07-Linux-x86_64.sh
